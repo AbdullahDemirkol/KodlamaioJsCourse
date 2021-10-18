@@ -24,4 +24,4 @@ console.log("</ul>");
 
 console.log(konutKredileri);
 
-let users = getUsersFromApi();
+// let users = getUsersFromApi();
